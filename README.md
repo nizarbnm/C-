@@ -1,2 +1,2 @@
 # C_plus_plus
-Traduction d'algorithme on C++ with Class exemples
+Algorithme on C++ with Class exemples
